@@ -1,0 +1,69 @@
+body{
+    
+    font-size: 0.9em;
+}
+
+.icon-holder{
+    font-size: 2em;
+}
+
+.detail-info{
+    margin-left: 15px;
+}
+
+.navbar-nav.navbar-center{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.jumbotron{
+    /* margin:15px 30px 0px 30px; */
+    /* border-radius:10px; */
+      background: 
+  linear-gradient(
+    rgba(0, 0, 250, 0.25), 
+    rgba(125, 250, 250, 0.45)
+  ),
+  url(https://source.unsplash.com/2WlwSXFw7Kk/1600x1050);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color:white !important;
+  min-height: 500px;
+  }
+  
+  .page-scroll{
+    height:5000px;
+  }
+  
+  .btn-outline-danger{
+    color:white;
+    border-color:white;
+    border-radius:0px;
+    font-weight:100;
+    margin-top:20px;
+  }
+
+  .lead{
+    font-weight:100;
+    margin-top:-10px;
+  }
+
+  .card .card-body{
+      font-size: 0.9em;
+  }
+
+  p .lead {
+    font-size: 0.9em;
+  }
+
+  h6{
+      font-size: 00.9em;
+      font-weight: bold;
+  }
+
+  footer{
+      min-height: 175px;
+  }
+
