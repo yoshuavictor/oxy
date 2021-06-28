@@ -16,12 +16,12 @@
 
 .carousel-inner{
     position: relative;
-    clip-path: circle(200vh at 50% -100vh);
-    height: 100vh;
+    clip-path: circle(170vh at 50% -80vh);
+    height: 90vh;
   }
 
   .carousel .carousel-inner .bg1{
-    height: 100vh;
+    height: 90vh;
     width: 100%;
     background: linear-gradient(rgba(9, 9, 121, 0.445), 
     rgba(125, 250, 250, 0.45)), url(https://source.unsplash.com/F6f0RFPRQc0/1600x1050);
@@ -30,7 +30,7 @@
   }
 
   .carousel .carousel-inner .bg2{
-    height: 100vh;
+    height: 90vh;
     width: 100%;
     background: linear-gradient(rgba(9, 9, 121, 0.445), 
     rgba(125, 250, 250, 0.45)), url(https://source.unsplash.com/C5c_cE_NMks/1600x1050);
